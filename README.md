@@ -41,6 +41,7 @@ Double the number
 Add one to the number
 
 ![image](https://user-images.githubusercontent.com/52289692/152694007-0314c58d-8cd8-4079-903a-2738a417d4dd.png)
+.
 
 
 
