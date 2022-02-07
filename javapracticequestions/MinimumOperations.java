@@ -8,6 +8,12 @@ import java.util.Scanner;
 //Double the number
 //Add one to the number
 
+// Input:
+// N = 8
+// Output: 4
+// Explanation: 0 + 1 = 1, 1 + 1 = 2,
+// 2 * 2 = 4, 4 * 2 = 8
+
 public class MinimumOperations {
 
 	public int minimumOperation(int number) {
