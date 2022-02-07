@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class SpiralMatrixNew {
 
 	public static void main(String[] args) {
-		int i,j;
-		System.out.println("Enter the value of n:");
+	int i,j;
+		
+	System.out.println("Enter the value of n:");
         Scanner s=new Scanner(System.in);
         int n=s.nextInt();
         
