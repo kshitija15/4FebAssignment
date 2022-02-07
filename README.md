@@ -42,3 +42,6 @@ Add one to the number
 
 ![image](https://user-images.githubusercontent.com/52289692/152694007-0314c58d-8cd8-4079-903a-2738a417d4dd.png)
 
+10.Spiral Matrix
+![image](https://user-images.githubusercontent.com/52289692/152737508-fc16494d-f403-48c9-b4f4-cb2b21ab288f.png)
+
